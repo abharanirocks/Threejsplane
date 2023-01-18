@@ -1,3 +1,3 @@
 # test-repo
 Visit:
-https://threejsplane.herokuapp.com/
+https://threejsplane.netlify.app/
